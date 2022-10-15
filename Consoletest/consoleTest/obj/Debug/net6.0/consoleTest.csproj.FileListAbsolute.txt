@@ -1,0 +1,36 @@
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\bin\Debug\net6.0\consoleTest.exe
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\bin\Debug\net6.0\consoleTest.deps.json
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\bin\Debug\net6.0\consoleTest.runtimeconfig.json
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\bin\Debug\net6.0\consoleTest.dll
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\bin\Debug\net6.0\consoleTest.pdb
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.csproj.AssemblyReference.cache
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.AssemblyInfoInputs.cache
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.AssemblyInfo.cs
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.csproj.CoreCompileInputs.cache
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.dll
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\obj\Debug\net6.0\refint\consoleTest.dll
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.pdb
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.genruntimeconfig.cache
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\obj\Debug\net6.0\ref\consoleTest.dll
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\bin\Debug\net6.0\backendClassLib.dll
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\bin\Debug\net6.0\backendClassLib.pdb
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.csproj.CopyComplete
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\bin\Debug\net6.0\consoleTest.exe
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\bin\Debug\net6.0\consoleTest.deps.json
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\bin\Debug\net6.0\consoleTest.runtimeconfig.json
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\bin\Debug\net6.0\consoleTest.dll
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\bin\Debug\net6.0\consoleTest.pdb
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\bin\Debug\net6.0\backendClassLib.dll
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\bin\Debug\net6.0\backendClassLib.pdb
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.AssemblyInfo.cs
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.csproj.CopyComplete
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.dll
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\obj\Debug\net6.0\refint\consoleTest.dll
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.pdb
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\obj\Debug\net6.0\consoleTest.genruntimeconfig.cache
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Consoletest\consoleTest\obj\Debug\net6.0\ref\consoleTest.dll
